@@ -1,5 +1,5 @@
 ---
-title: "MSDM - Master's of Science in Digital Marketing"
+title: "Master's of Science in Digital Marketing"
 subtitle: |
   | * MSDM 2025 Student of the Year
   | * Beta Gamma Sigma International Honors Society
