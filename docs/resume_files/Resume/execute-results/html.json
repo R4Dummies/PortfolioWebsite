@@ -1,0 +1,15 @@
+{
+  "hash": "ae40e0fa69fe780fb9af9ee794f08ffb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nname: Ricky\nsurname: Woznichak\nposition: \"MSDM | Digital Marketing and Sales Professional\"\nphone: +1 (323) 383-5876\nwww: rickywoz.netlify.app\nemail: \"woznichak@gmail.com\"\ngithub: your-github\nlinkedin: rickywoznichak\ndate: \"May 2025\"\noutput: \n  vitae::latexcv:\n    theme: classic\nheader-includes:\n   - \\usepackage{enumitem}\n   - \\setlist[itemize]{nosep, left=0pt}\n   - \\setlist[enumerate]{nosep, left=0pt}\n---\n\n\n\n\n\n# Professional Summary\n\nDynamic digital marketing professional with agency and in-house experience across media planning, branded content, and campaign optimization. After launching my career with top brands like Sony, UMG, and Studio71, I pursued acting full-time—joining SAG and appearing on HBO’s Insecure—while substitute teaching for LAUSD. Currently enrolled full-time in the Master of Science in Digital Marketing program at Cal Poly Pomona (graduating August 2025), I have updated my skillset to meet the demands of today’s evolving digital marketing landscape, with advanced training in SEO, analytics, and performance strategy.\n\n# Technical Skills\n\n- **Programming Languages:** R, SQL  \n- **Web Technologies:** HTML, CSS/SCSS, Quarto, HubSpot, Tableau\n- **Certifications:** Google Analytics, HubSpot\n\n# Education\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 2 × 5\n  what                                        when        with       where why  \n  <chr>                                       <chr>       <chr>      <chr> <lis>\n1 Master of Science in Digital Marketing      2024 – 2025 Singelyn … Cal … <chr>\n2 Bachelor of Science in Marketing Management 2002 – 2010 College o… Cal … <chr>\n```\n\n\n:::\n:::\n\n\n\n# Relevent Work Experience\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 6 × 5\n  what                            when             with             where why   \n  <chr>                           <chr>            <chr>            <chr> <list>\n1 Digital Marketing Manager       9.2024 – 2.2025  John Franklin I… <NA>  <list>\n2 Sales Development Coordinator   9.2012 – 4.2013  Studio 71        <NA>  <list>\n3 Associate Digital Media Planner 4.2011 – 9.2012  Universal McCan… <NA>  <list>\n4 Digital Marketing Coordinator   6.2010 - 1.2011  Universal Music… <NA>  <list>\n5 Digital Sales Intern            1.2010 - 6.2010  Warner Music Gr… <NA>  <list>\n6 Digital Marketing Intern        6.2009 - 12.2009 Universal Music… <NA>  <list>\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

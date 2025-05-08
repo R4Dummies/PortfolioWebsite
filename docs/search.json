@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "Analytics.html",
+    "href": "Analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Greatest Hits!\nHave you ever seen a more beautiful forecast of Australian retailing? \nWow… Australia’s Northern Territory Turnover is quite seasonal.\n\n\n\n\n\nI made this one too. This graph gave me a 100% on my Forecasting Mid-Term.\n\n\n\n\n\nCoded with love in R Studio for IBM 6520 - Market Forecasting\n\n\nIf you ever need help, please feel free to ask. I’m here for you."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "MSDM - Master’s of Science in Digital Marketing",
+    "section": "About Me",
+    "text": "About Me\nI hold a  Master’s of Science in Digital Marketing  from Cal Poly Pomona.\n\nDistinguished Member of Beta Gamma Sigma Honors International Business Honors Society\nAvid drummer; music & nature lover"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "MSDM - Master’s of Science in Digital Marketing",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my story…"
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nDynamic digital marketing professional with agency and in-house experience across media planning, branded content, and campaign optimization. After launching my career with top brands like Sony, UMG, and Studio71, I pursued acting full-time—joining SAG and appearing on HBO’s Insecure—while substitute teaching for LAUSD. Currently enrolled full-time in the Master of Science in Digital Marketing program at Cal Poly Pomona (graduating August 2025), I have updated my skillset to meet the demands of today’s evolving digital marketing landscape, with advanced training in SEO, analytics, and performance strategy.\n\n\nTechnical Skills\n\nProgramming Languages: R, SQL\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, HubSpot, Tableau\nCertifications: Google Analytics, HubSpot\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                                        when        with       where why  \n  &lt;chr&gt;                                       &lt;chr&gt;       &lt;chr&gt;      &lt;chr&gt; &lt;lis&gt;\n1 Master of Science in Digital Marketing      2024 – 2025 Singelyn … Cal … &lt;chr&gt;\n2 Bachelor of Science in Marketing Management 2002 – 2010 College o… Cal … &lt;chr&gt;\n\n\n\n\nHonors\n\nBeta Gamma Sigma Honors Society\nMSDM 2025 “Student of the Year”\n\n\n\nRelevent Work Experience\n\n\n# A tibble: 6 × 5\n  what                            when             with             where why   \n  &lt;chr&gt;                           &lt;chr&gt;            &lt;chr&gt;            &lt;chr&gt; &lt;list&gt;\n1 Digital Marketing Manager       9.2024 – 2.2025  John Franklin I… &lt;NA&gt;  &lt;list&gt;\n2 Sales Development Coordinator   9.2012 – 4.2013  Studio 71        &lt;NA&gt;  &lt;list&gt;\n3 Associate Digital Media Planner 4.2011 – 9.2012  Universal McCan… &lt;NA&gt;  &lt;list&gt;\n4 Digital Marketing Coordinator   6.2010 - 1.2011  Universal Music… &lt;NA&gt;  &lt;list&gt;\n5 Digital Sales Intern            1.2010 - 6.2010  Warner Music Gr… &lt;NA&gt;  &lt;list&gt;\n6 Digital Marketing Intern        6.2009 - 12.2009 Universal Music… &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nMotivated and versatile digital marketing professional with a strong foundation in media planning, branded content, and campaign strategy. My early career included roles at industry leaders like Universal Music Group, Universal McCann, and Studio71, where I managed digital campaigns for top-tier clients including Sony, Taco Bell, and Taylor Swift. I’ve led cross-functional teams, built branded entertainment proposals, and optimized performance using analytics across streaming, social, and email platforms.\nAfter several formative years in the entertainment industry, I took a personal leap to pursue acting full-time in Los Angeles—joining the Screen Actor’s Guild and appearing in episodes of Insecure on HBO. During this chapter, I supported myself as a substitute teacher with LAUSD and worked in hospitality, honing adaptability, empathy, and communication skills. Feel free to ask me about it. It’s quite a story…\nRecognizing the rapid evolution of the digital landscape, I chose to return to school full-time to earn a Master of Science in Digital Marketing at Cal Poly Pomona (graduating August 2025). This program is allowing me to update my skill set with cutting-edge training in SEO, analytics, and performance marketing strategies.\nWith both agency and entertainment industry experience, and renewed technical expertise, I bring a well-rounded, modern approach to digital marketing—ready to make an impact in today’s data-driven landscape.\n\n\nTechnical Skills\n\nProgramming Languages: R, SQL\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools, Tableau\nCertifications: Google Analytics (GA4), HubSpot (Email Marketing, Inbound Marketing, Reporting)\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nMaster’s of Science in Digital Marketing\nAugust, 2025\nSinglelyn Graduate School of Business\nCalifornia State Polytechnic University, Pomona\n\n\nBchelor’s of Science in Marketing Management\nAugust, 2010\nCollege of Business Administration\nCalifornia State Polytechnic University, Pomona\n\n\n\n\n\nRelevant Work Experience\n\nMarketing Manager,  John Franklin Insurance - Farmers\n 9.2024-2.2025\n\n\n Developed and managed email marketing and social media campaigns to build brand awareness, nurture leads, and drive conversions while enhancing community engagement. \n\n Monitored performance metrics to optimize campaigns for maximum ROI and collaborated cross-functionally with sales and underwriting teams to tailor messaging for diverse customer segments. \n\n Utilized Constant Contact daily for email campaign creation and management  \n\n Segmented campaigns across various insurance verticals with open rates above 60% on aveage  \n\n\n\n\n\n Sales Development Coordinator,  Studio 71\n 9.2012 – 4.2013\n\n\n Coordinated development of branded entertainment video content for a top-tier YouTube multi-channel network.  \n\n Managed production schedules, asset delivery, and interfaced with a variety of clients including Taco Bell, Gillette, Sony Pictures, Activision, and Sprint by delivering proposals, media plans, and reporting.  \n\n Utilized ComScore and YouTube analytics daily  \n\n\n\n\n\n Associate Digital Media Planner,  Univeral McCann (UM)\n 4.2011 – 9.2012\n\n\n Planned, launched, and maintained digital media campaigns for Sony Television and Sony Home Entertainment.  \n\n Communicated daily and negotiated contracts with media partners and vendors. Reported to studio clients and partners with regular campaign status updates.  \n\n Played practive role in “RFP” - requests for proposal process.  \n\n Gathered campaign data and created status updates, progress, and visual summary reports for client.  \n\n\n\n\n\n Digital Marketing Coordinaror,  Universal Music Group\n 6.2010 – 1.2011\n\n\n Managed online marketing and promotional campaigns for UMG artists and initiatives including Lady Gaga, Taylor Swift, Kid Cudi, Mariah Carey, Jimmy Eat World, and many others.  \n\n Collected performance data and presented campaign results to UMG record label executives. Coordinated and delegated campaign tasks to interns.  \n\n\n\n\n\n Digital Sales Intern,  Warner Music Group\n 1.2010 – 6.2010\n\n\n Supported the digital sales team by analyzing streaming data, optimizing revenue opportunities, and assisting in partnership strategies to drive sales growth.  \n\n\n\n\n\n Digital Marketing Intern,  Universal Music Group\n 6.2009 – 12.2009\n\n\n Assisted in executing digital marketing campaigns, analyzing audience engagement, and optimizing content strategies to enhance artist/brand visibility."
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing Projects",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#productfolio-culminating-experience---graduate-thesis",
+    "href": "strategic-marketing.html#productfolio-culminating-experience---graduate-thesis",
+    "title": "Strategic Marketing Projects",
+    "section": "Productfolio Culminating Experience - Graduate Thesis",
+    "text": "Productfolio Culminating Experience - Graduate Thesis\nThroughout the Productfolio research project, I leveraged a diverse toolkit of analytical, technical, and strategic skills to drive data-informed marketing decisions. By defining clear objectives and integrating multiple data sources, I transformed raw metrics into actionable insights. From rigorous data preparation and predictive modeling to compelling visualizations and cross-functional collaboration, each skill I applied ensured that our team could confidently optimize user acquisition strategies and enhance overall channel performance.\nSkills Demonstrated:\n\nProject Leadership & Ownership: I led the Productfolio research project end-to-end—managing scope, timelines, and communication—to ensure strategic alignment and timely delivery.\nStrategic Planning & Research Scoping: I defined clear research objectives and framed key performance questions around user acquisition and channel effectiveness for Productfolio.com.\nData Extraction & Integration: I connected to GA4 to pull the “Accounts by Channel” dataset and enriched it with third-party SEO metrics from SEMrush, ensuring a comprehensive data foundation.\nData Wrangling & Transformation: I cleaned and reshaped raw data—handling missing values, normalizing formats, and creating derived variables—to make it analysis-ready.\nExploratory Data Analysis: I ran summary statistics and visual inspections to uncover patterns in referral sources and campaign performance, guiding deeper investigation.\nStatistical Modeling & Predictive Analytics I built and compared linear regression and random forest models to identify which factors (e.g., keyword difficulty, search volume) most strongly drove SERP rankings.\nData Visualization & Dashboarding I crafted clear, intuitive charts and dashboards in Quarto—highlighting channel benchmarks, model results, and trends—to make complex findings accessible.\nSEO & SEM Tool Proficiency I leveraged SEMrush (for keyword difficulty, volume, and competitor insights) alongside Google Analytics to ground my analysis in industry-standard metrics.\nInsight Synthesis & Storytelling I translated analytical output into strategic recommendations—prioritizing low-competition keywords and underperforming channels—framed around stakeholder goals.\nReporting & Presentation I authored concise reports and delivered Quarto presentations that balanced technical rigor with narrative flow, ensuring executives understood both findings and implications.\nCross-Functional CollaborationI liaised with marketing, content, and product teams to validate assumptions, align on priorities, and secure buy-in for data-driven next steps."
+  },
+  {
+    "objectID": "strategic-marketing.html#universal-mccann---digital-media-campaign-launches",
+    "href": "strategic-marketing.html#universal-mccann---digital-media-campaign-launches",
+    "title": "Strategic Marketing Projects",
+    "section": "Universal McCann - Digital Media Campaign Launches",
+    "text": "Universal McCann - Digital Media Campaign Launches\nThese projects entailed creating, launching, and optimizing digital media campaigns for Breaking Bad Season 4 and Community on NBC (among others), negotiating media buys, managing vendor relationships, and delivering regular performance updates—driving measurable improvements in reach and engagement.\nSkills Demonstrated:\n\nCampaign Strategy & Execution: Designed and executed multi-channel digital plans for Breaking Bad Season 4 and Community using display, video, and programmatic placements.\nVendor Negotiation: Secured optimal rates and premium placements through contract negotiations with key media partners.\nData-Driven Reporting: Produced weekly performance reports highlighting KPIs, budget pacing, and actionable optimization recommendations.\nCross-Functional Collaboration: Coordinated between analytics, creative, and account teams to ensure campaign alignment and maximize impact."
+  },
+  {
+    "objectID": "strategic-marketing.html#studio71---branded-entertainment-video-campaigns",
+    "href": "strategic-marketing.html#studio71---branded-entertainment-video-campaigns",
+    "title": "Strategic Marketing Projects",
+    "section": "Studio71 - Branded Entertainment Video Campaigns",
+    "text": "Studio71 - Branded Entertainment Video Campaigns\nThis initiatives involved coordinating the end-to-end development and delivery of branded entertainment video content for Studio71’s YouTube network partners. I managed client relationships, production schedules, and asset handoffs to ensure each video met sponsor objectives, quality standards, and launch timelines.\nSkills Demonstrated:\n\nContent Production Coordination: Orchestrated timelines and deliverables across creative, production, and post-production teams.\nClient Proposals & Media Planning: Drafted and presented tailored proposals and media plans for brands such as Taco Bell, Gillette, Sony Pictures, Activision, and Sprint.\nStakeholder Communication: Served as the primary liaison between internal teams and external sponsors, ensuring alignment on scope, budget, and creative direction.\nPerformance Reporting: Compiled campaign metrics and generated insight-driven reports to inform optimization and renewal discussions."
+  },
+  {
+    "objectID": "strategic-marketing.html#acting-career-personal-brand-development-self-marketing",
+    "href": "strategic-marketing.html#acting-career-personal-brand-development-self-marketing",
+    "title": "Strategic Marketing Projects",
+    "section": "Acting Career, Personal Brand Development & Self-Marketing",
+    "text": "Acting Career, Personal Brand Development & Self-Marketing\nThis initiative involved building and promoting my professional acting brand—documenting credits on my IMDb profile, securing training opportunities, and implementing targeted marketing strategies within the entertainment industry. Leveraging a recurring role on HBO’s Insecure, I continually refined my craft and elevated my visibility among casting directors, agents, and industry peers.\nSkills Demonstrated:\n\nPersonal Brand Management: Regularly updated and optimized my IMDb profile and personal website to highlight credits (including Insecure), training, and showreel assets.\nStrategic Networking: Cultivated relationships with casting directors, agents, and fellow actors through industry events, workshops, and online platforms.\nDigital Promotion: Designed and executed social-media campaigns across Instagram, LinkedIn, and specialized casting networks to showcase new scenes, behind-the-scenes footage, and upcoming auditions.\nContinuous Training: Enrolled in advanced acting classes and master-level workshops—ranging from Method Acting to on-camera improv—to both sharpen skills and generate new promotional content.\nOpportunity Targeting: Identified and pursued high-visibility audition opportunities, collaborated with my agent on tailored pitch materials, and leveraged press mentions to expand my professional footprint."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  }
+]

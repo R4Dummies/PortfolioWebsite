@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ricky Woznichak"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Résumé"
+        href: resume.qmd
+      - text: "Marketing Projects"
+        href: strategic-marketing.qmd
+      - text: "Marketing Analytics"
+        href: Analytics.qmd
+      - text: "DO NOT CLICK HERE"
+        href: https://youtu.be/dQw4w9WgXcQ?si=jBMCmZd19k4c8bb5
+     
+
+format:
+  html:
+    theme: [sketchy, theme.scss]
+    toc: true
+

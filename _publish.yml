@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: e50a2225-0c3d-440c-840c-a79dcc864356
+      url: 'https://rickywoz.netlify.app'

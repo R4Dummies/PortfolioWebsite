@@ -1,0 +1,95 @@
+---
+title: "Résumé"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](Resume.pdf).
+
+# Professional Summary
+
+Motivated and versatile digital marketing professional with a strong foundation in media planning, branded content, and campaign strategy. My early career included roles at industry leaders like Universal Music Group, Universal McCann, and Studio71, where I managed digital campaigns for top-tier clients including Sony, Taco Bell, and Taylor Swift. I’ve led cross-functional teams, built branded entertainment proposals, and optimized performance using analytics across streaming, social, and email platforms.
+
+After several formative years in the entertainment industry, I took a personal leap to pursue acting full-time in Los Angeles—joining the Screen Actor’s Guild and appearing in episodes of *Insecure* on HBO. During this chapter, I supported myself as a substitute teacher with LAUSD and worked in hospitality, honing adaptability, empathy, and communication skills. Feel free to ask me about it. It's quite a story...
+
+Recognizing the rapid evolution of the digital landscape, I chose to return to school full-time to earn a Master of Science in Digital Marketing at Cal Poly Pomona (graduating August 2025). This program is allowing me to update my skill set with cutting-edge training in SEO, analytics, and performance marketing strategies.
+
+With both agency and entertainment industry experience, and renewed technical expertise, I bring a well-rounded, modern approach to digital marketing—ready to make an impact in today’s data-driven landscape.
+
+# Technical Skills
+
+-   **Programming Languages:** R, SQL
+-   **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools, Tableau
+-   **Certifications:** Google Analytics (GA4), HubSpot (Email Marketing, Inbound Marketing, Reporting)
+
+# Education
+
+| Degree | Year | College / Department | Institution |
+|----|----|----|----|
+| Master's of Science in Digital Marketing | August, 2025 | Singlelyn Graduate School of Business | California State Polytechnic University, Pomona |
+| Bchelor's of Science in Marketing Management | August, 2010 | College of Business Administration | California State Polytechnic University, Pomona |
+
+# Relevant Work Experience
+
+### \Digital Marketing Manager,  John Franklin Insurance - Farmers
+
+ 9.2024-2.2025\
+
+-    Developed and managed email marketing and social media campaigns to build brand awareness, nurture leads, and drive conversions while enhancing community engagement. \
+-    Monitored performance metrics to optimize campaigns for maximum ROI and collaborated cross-functionally with sales and underwriting teams to tailor messaging for diverse customer segments. \
+-    Utilized Constant Contact daily for email campaign creation and management  \
+-    Segmented campaigns across various insurance verticals with open rates above 60% on aveage  \
+
+------------------------------------------------------------------------
+
+###  Sales Development Coordinator,  Studio 71
+
+ 9.2012 – 4.2013\
+
+-    Coordinated development of branded entertainment video content for a top-tier YouTube multi-channel network.  \
+-    Managed production schedules, asset delivery, and interfaced with a variety of clients including Taco Bell, Gillette, Sony Pictures, Activision, and Sprint by delivering proposals, media plans, and reporting.  \
+-    Utilized ComScore and YouTube analytics daily  \
+
+------------------------------------------------------------------------
+
+###  Associate Digital Media Planner,  Univeral McCann (UM)
+
+ 4.2011 – 9.2012\
+
+-    Planned, launched, and maintained digital media campaigns for Sony Television and Sony Home Entertainment.  \
+-    Communicated daily and negotiated contracts with media partners and vendors. Reported to studio clients and partners with regular campaign status updates.  \
+-    Played practive role in "RFP" - requests for proposal process.  \
+-    Gathered campaign data and created status updates, progress, and visual summary reports for client.  \
+
+------------------------------------------------------------------------
+
+###  Digital Marketing Coordinaror,  Universal Music Group
+
+ 6.2010 – 1.2011\
+
+-    Managed online marketing and promotional campaigns for UMG artists and initiatives including Lady Gaga, Taylor Swift, Kid Cudi, Mariah Carey, Jimmy Eat World, and many others.  \
+-    Collected performance data and presented campaign results to UMG record label executives. Coordinated and delegated campaign tasks to interns.  \
+
+------------------------------------------------------------------------
+
+###  Digital Sales Intern,  Warner Music Group
+
+ 1.2010 – 6.2010\
+
+-    Supported the digital sales team by analyzing streaming data, optimizing revenue opportunities, and assisting in partnership strategies to drive sales growth.  \
+
+------------------------------------------------------------------------
+
+###  Digital Marketing Intern,  Universal Music Group
+
+ 6.2009 – 12.2009\
+
+-    Assisted in executing digital marketing campaigns, analyzing audience engagement, and optimizing content strategies to enhance artist/brand visibility.  \

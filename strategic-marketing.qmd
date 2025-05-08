@@ -1,0 +1,65 @@
+---
+title: "Strategic Marketing Projects"
+---
+
+Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
+
+## Productfolio Culminating Experience - Graduate Thesis 
+
+Throughout the Productfolio research project, I leveraged a diverse toolkit of analytical, technical, and strategic skills to drive data-informed marketing decisions. By defining clear objectives and integrating multiple data sources, I transformed raw metrics into actionable insights. From rigorous data preparation and predictive modeling to compelling visualizations and cross-functional collaboration, each skill I applied ensured that our team could confidently optimize user acquisition strategies and enhance overall channel performance.
+
+**Skills Demonstrated:**
+
+- **Project Leadership & Ownership:** I led the Productfolio research project end-to-end—managing scope, timelines, and communication—to ensure strategic alignment and timely delivery.
+- **Strategic Planning & Research Scoping:** I defined clear research objectives and framed key performance questions around user acquisition and channel effectiveness for Productfolio.com.
+- **Data Extraction & Integration:** I connected to GA4 to pull the “Accounts by Channel” dataset and enriched it with third-party SEO metrics from SEMrush, ensuring a comprehensive data foundation.
+- **Data Wrangling & Transformation:** I cleaned and reshaped raw data—handling missing values, normalizing formats, and creating derived variables—to make it analysis-ready.
+- **Exploratory Data Analysis:** I ran summary statistics and visual inspections to uncover patterns in referral sources and campaign performance, guiding deeper investigation.
+- **Statistical Modeling & Predictive Analytics** I built and compared linear regression and random forest models to identify which factors (e.g., keyword difficulty, search volume) most strongly drove SERP rankings.
+- **Data Visualization & Dashboarding** I crafted clear, intuitive charts and dashboards in Quarto—highlighting channel benchmarks, model results, and trends—to make complex findings accessible.
+- **SEO & SEM Tool Proficiency** I leveraged SEMrush (for keyword difficulty, volume, and competitor insights) alongside Google Analytics to ground my analysis in industry-standard metrics.
+- **Insight Synthesis & Storytelling** I translated analytical output into strategic recommendations—prioritizing low-competition keywords and underperforming channels—framed around stakeholder goals.
+- **Reporting & Presentation** I authored concise reports and delivered Quarto presentations that balanced technical rigor with narrative flow, ensuring executives understood both findings and implications.
+- **Cross-Functional Collaboration**I liaised with marketing, content, and product teams to validate assumptions, align on priorities, and secure buy-in for data-driven next steps.
+
+---
+
+## Universal McCann - Digital Media Campaign Launches
+
+These projects entailed creating, launching, and optimizing digital media campaigns for **Breaking Bad Season 4** and **Community** on NBC (among others), negotiating media buys, managing vendor relationships, and delivering regular performance updates—driving measurable improvements in reach and engagement.
+
+**Skills Demonstrated:**
+
+- **Campaign Strategy & Execution:** Designed and executed multi-channel digital plans for Breaking Bad Season 4 and Community using display, video, and programmatic placements.
+- **Vendor Negotiation:** Secured optimal rates and premium placements through contract negotiations with key media partners.
+- **Data-Driven Reporting:** Produced weekly performance reports highlighting KPIs, budget pacing, and actionable optimization recommendations.
+- **Cross-Functional Collaboration:** Coordinated between analytics, creative, and account teams to ensure campaign alignment and maximize impact.
+
+---
+
+## Studio71 - Branded Entertainment Video Campaigns
+
+This initiatives involved coordinating the end-to-end development and delivery of branded entertainment video content for Studio71’s YouTube network partners. I managed client relationships, production schedules, and asset handoffs to ensure each video met sponsor objectives, quality standards, and launch timelines.
+
+**Skills Demonstrated:**
+
+- **Content Production Coordination:** Orchestrated timelines and deliverables across creative, production, and post-production teams.
+- **Client Proposals & Media Planning:** Drafted and presented tailored proposals and media plans for brands such as Taco Bell, Gillette, Sony Pictures, Activision, and Sprint.
+- **Stakeholder Communication:** Served as the primary liaison between internal teams and external sponsors, ensuring alignment on scope, budget, and creative direction.
+- **Performance Reporting:** Compiled campaign metrics and generated insight-driven reports to inform optimization and renewal discussions.
+
+---
+
+## Acting Career, Personal Brand Development & Self-Marketing
+
+This initiative involved building and promoting my professional acting brand—documenting credits on my IMDb profile, securing training opportunities, and implementing targeted marketing strategies within the entertainment industry. Leveraging a recurring role on HBO’s Insecure, I continually refined my craft and elevated my visibility among casting directors, agents, and industry peers.
+
+**Skills Demonstrated:**
+
+- **Personal Brand Management:** Regularly updated and optimized my IMDb profile and personal website to highlight credits (including Insecure), training, and showreel assets.
+- **Strategic Networking:** Cultivated relationships with casting directors, agents, and fellow actors through industry events, workshops, and online platforms.
+- **Digital Promotion:** Designed and executed social-media campaigns across Instagram, LinkedIn, and specialized casting networks to showcase new scenes, behind-the-scenes footage, and upcoming auditions.
+- **Continuous Training:** Enrolled in advanced acting classes and master-level workshops—ranging from Method Acting to on-camera improv—to both sharpen skills and generate new promotional content.
+- **Opportunity Targeting:** Identified and pursued high-visibility audition opportunities, collaborated with my agent on tailored pitch materials, and leveraged press mentions to expand my professional footprint.
+
+

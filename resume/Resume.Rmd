@@ -1,0 +1,126 @@
+---
+name: Ricky
+surname: Woznichak
+position: "MSDM | Digital Marketing and Sales Professional"
+phone: +1 (323) 383-5876
+www: rickywoz.netlify.app
+email: "woznichak@gmail.com"
+github: your-github
+linkedin: rickywoznichak
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+header-includes:
+   - \usepackage{enumitem}
+   - \setlist[itemize]{nosep, left=0pt}
+   - \setlist[enumerate]{nosep, left=0pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+if (!requireNamespace(c("tinytex","vitae","tibble"), quietly = TRUE)) {
+  install.packages(c("tinytex","vitae","tibble"))
+}
+
+if (Sys.which("pdflatex") == "" && !tinytex::is_tinytex()) {                    
+  message("► TinyTeX not found – installing")
+  tinytex::install_tinytex()        
+} else {
+  message("✓ LaTeX present – no installation needed.")
+}
+
+library(vitae)
+library(tibble)
+```
+
+# Professional Summary
+
+Dynamic digital marketing professional with agency and in-house experience across media planning, branded content, and campaign optimization. After launching my career with top brands like Sony, UMG, and Studio71, I pursued acting full-time—joining SAG and appearing on HBO’s Insecure—while substitute teaching for LAUSD. Currently enrolled full-time in the Master of Science in Digital Marketing program at Cal Poly Pomona (graduating August 2025), I have updated my skillset to meet the demands of today’s evolving digital marketing landscape, with advanced training in SEO, analytics, and performance strategy.
+
+# Technical Skills
+
+- **Programming Languages:** R, SQL  
+- **Web Technologies:** HTML, CSS/SCSS, Quarto, HubSpot, Tableau
+- **Certifications:** Google Analytics, HubSpot
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ College, ~ Institution,
+  "Master of Science in Digital Marketing", "2024 – 2025", "Singelyn Graduate School of Business", "Cal Poly Pomona",
+  "Bachelor of Science in Marketing Management", "2002 – 2010", "College of Business Administration", "Cal Poly Pomona"
+) %>%
+  detailed_entries(Degree, Year, College, Institution)
+```
+
+# Honors
+- Beta Gamma Sigma Honors Society
+- MSDM 2025 "Student of the Year"
+
+# Relevent Work Experience
+
+```{r}
+library(tibble)
+library(dplyr)
+
+tribble(
+  ~years, ~company, ~duties, ~title,
+
+  "9.2024 – 2.2025",
+  "John Franklin Insurance - Farmers Insurance Broker",
+  list(
+    "Developed and managed email marketing and social media campaigns to build brand awareness, nurture leads, and drive conversions.",
+    "Monitored performance metrics to optimize campaigns for maximum ROI."
+  ),
+  "Digital Marketing Manager",
+
+  "9.2012 – 4.2013",
+  "Studio 71",
+  list(
+    "Coordinated development of branded entertainment video content for a top-tier YouTube multi-channel network.",
+    "Managed production schedules, asset delivery, and interfaced with a variety of clients including Taco Bell, Gillette, Sony Pictures, Activision, and Sprint by delivering proposals, media plans, and reporting."
+  ),
+  "Sales Development Coordinator",
+
+  "4.2011 – 9.2012",
+  "Universal McCann (UM)",
+  list(
+    "Planned, launched, and maintained digital media campaigns for Sony Television and Sony Home Entertainment.",
+    "Communicated daily and negotiated contracts with media partners and vendors. Reported to studio clients and partners with regular campaign status updates."
+  ),
+  "Associate Digital Media Planner",
+
+  "6.2010 - 1.2011",
+  "Universal Music Group",
+  list(
+    "Managed online marketing and promotional campaigns for UMG artists and initiatives including Lady Gaga, Taylor Swift, Kid Cudi, Mariah Carey, Jimmy Eat World, and many others.",
+    "Collected performance data and presented campaign results to UMG record label executives. Coordinated and delegated campaign tasks to interns."
+  ),
+  "Digital Marketing Coordinator",
+
+  "1.2010 - 6.2010",
+  "Warner Music Group",
+  list(
+    "Supported the digital sales team by analyzing streaming data, optimizing revenue opportunities, and assisting in partnership strategies to drive sales growth."
+  ),
+  "Digital Sales Intern",
+
+  "6.2009 - 12.2009",
+  "Universal Music Group",
+  list(
+    "Assisted in executing digital marketing campaigns, analyzing audience engagement, and optimizing content strategies to enhance artist/brand visibility."
+  ),
+  "Digital Marketing Intern"
+) |>
+  detailed_entries(
+    what = title,
+    when = years,
+    with = company,
+    why = duties
+  )
+
+
+```

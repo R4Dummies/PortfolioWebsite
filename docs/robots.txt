@@ -1,0 +1,1 @@
+Sitemap: https://rickywoz.netlify.app/sitemap.xml

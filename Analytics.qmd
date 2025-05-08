@@ -1,0 +1,20 @@
+---
+title: "Marketing Analytics"
+editor: visual
+---
+
+# Greatest Hits!
+
+Have you ever seen a more beautiful forecast of Australian retailing? ![](MarketForecasting.png){fig-align="center"}
+
+Wow... Australia's Northern Territory Turnover is quite seasonal.
+
+![](turnover.png){fig-align="center"}
+
+I made this one too. This graph gave me a 100% on my Forecasting Mid-Term.
+
+![](NiceLines.png){fig-align="center"}
+
+Coded with love in R Studio for IBM 6520 - Market Forecasting
+
+# If you ever need help, please feel free to ask. I'm here for you.
